@@ -32,7 +32,7 @@
    ```
 3. **Start Medusa Server:**
    ```bash
-   medusa develop
+   npm run dev
    ```
 4. **Configure Environment Variables:** Update the `.env` file with the required values:
    ```env
